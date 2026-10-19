@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:35:33.102Z",
+  "generated_at": "2026-10-19T20:36:36.133Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -10,9 +10,9 @@
       "url": "https://www.deep-ml.com/problems/1",
       "path": "problems/0001-matrix-vector-dot-product",
       "first_solved_at": "2026-10-19T20:23:43.043Z",
-      "last_pushed_at": "2026-10-19T20:26:01.918Z",
+      "last_pushed_at": "2026-10-19T20:36:35.906Z",
       "language": "python",
-      "lines": 24
+      "lines": 13
     },
     "problem:2": {
       "kind": "problem",
